@@ -1,11 +1,11 @@
 ---
-description: Hey, I'm Edna West
+description: Bruna Garbes
 images:
 - /images/sample.jpg
-title: ABOUT
+title: SOBRE MIM
 ---
 
 
-This is my about page. :wave:
+Olá, tudo bem? Seja bem-vindo(a) ao meu site pessoal!:wave:
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+Meu nome é Bruna, sou formada em Ciência e Tecnologia pela Universidade Federal do ABC

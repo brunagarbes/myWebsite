@@ -36,11 +36,11 @@ params:
     gradientOverlay: ''
     logo: ''
   social:
-    facebook: https://www.facebook.com/
-    github: https://github.com/
-    instagram: https://www.instagram.com/
-    linkedin: https://www.linkedin.com/in/
-    youtube: https://www.youtube.com/
+    facebook: https://www.facebook.com/bruna.garbes
+    github: https://github.com/brunagarbes
+    instagram: https://www.instagram.com/brunagarbes/
+    linkedin: https://www.linkedin.com/in/brunagarbes/
+    youtube: https://www.youtube.com/channel/UCsuldMGUaKc8qZHoa90BlLg
 taxonomies:
   design: designs
   tech: techs
