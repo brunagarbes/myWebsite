@@ -1,4 +1,4 @@
-baseURL: https://github.com/brunagarbes/myWebsite/
+baseURL: "https://github.com/brunagarbes/myWebsite/"
 languageCode: en-us
 title: Bruna Garbes
 theme: personal-web
