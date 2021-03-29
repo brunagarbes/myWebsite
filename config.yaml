@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: https://github.com/brunagarbes/myWebsite
 languageCode: en-us
 title: Bruna Garbes
 theme: personal-web
@@ -19,8 +19,8 @@ params:
     email: ''
     text: ''
   intro:
-    main: 'Hi, I''m Edna :wave:'
-    sub: I'm a Web Developer and Entrepreneur
+    main: 'Bruna Garbes :wave:'
+    sub: Analista de dados, bioinformata e bacharela em ciência e tecnologia
   main:
     latestPublishHeader: My Latest Project
   mainSections: portfolio
@@ -36,15 +36,10 @@ params:
     gradientOverlay: ''
     logo: ''
   social:
-    codepen: https://codepen.io/
     facebook: https://www.facebook.com/
     github: https://github.com/
-    gitlab: https://gitlab.com/
     instagram: https://www.instagram.com/
-    keybase: https://keybase.io/
     linkedin: https://www.linkedin.com/in/
-    medium: https://medium.com/
-    twitter: https://twitter.com/
     youtube: https://www.youtube.com/
 taxonomies:
   design: designs
