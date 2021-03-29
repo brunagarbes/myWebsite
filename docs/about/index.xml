@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABOUT on Bruna Garbes</title>
-    <link>https://github.com/brunagarbes/myWebsite/about/</link>
+    <link>https://brunagarbes.github.io/myWebsite/about/</link>
     <description>Recent content in ABOUT on Bruna Garbes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Bruna Garbes</copyright><atom:link href="https://github.com/brunagarbes/myWebsite/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Bruna Garbes</copyright><atom:link href="https://brunagarbes.github.io/myWebsite/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

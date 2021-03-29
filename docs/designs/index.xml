@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Bruna Garbes</title>
-    <link>https://github.com/brunagarbes/myWebsite/designs/</link>
+    <link>https://brunagarbes.github.io/myWebsite/designs/</link>
     <description>Recent content in Designs on Bruna Garbes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Bruna Garbes</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://github.com/brunagarbes/myWebsite/designs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://brunagarbes.github.io/myWebsite/designs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photoshop</title>
-      <link>https://github.com/brunagarbes/myWebsite/designs/photoshop/</link>
+      <link>https://brunagarbes.github.io/myWebsite/designs/photoshop/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://github.com/brunagarbes/myWebsite/designs/photoshop/</guid>
+      <guid>https://brunagarbes.github.io/myWebsite/designs/photoshop/</guid>
       <description></description>
     </item>
     
