@@ -6,6 +6,7 @@ copyright: © Bruna Garbes
 googleAnalytics: ''
 enableEmoji: yes
 enableRobotsTXT: yes
+publishDir: "docs/"
 pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 params:
