@@ -1,7 +1,7 @@
 ---
 description: Bruna Garbes
 images:
-- /images/sample.jpg
+- /images/myPic.jpg
 title: SOBRE MIM
 ---
 
