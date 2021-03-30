@@ -34,7 +34,7 @@ params:
   sidebar:
     backgroundImage: ''
     gradientOverlay: ''
-    logo: ''
+    logo: 'images/myPic.jpg'
   social:
     facebook: https://www.facebook.com/bruna.garbes
     github: https://github.com/brunagarbes
