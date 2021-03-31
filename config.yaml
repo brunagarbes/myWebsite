@@ -19,7 +19,7 @@ params:
     email: ''
     text: ''
   intro:
-    main: 'Bruna Garbes :wave:'
+    main: 'Bruna Garbes'
     sub: Analista de dados, bioinformata e bacharela em ciência e tecnologia
   main:
     latestPublishHeader: My Latest Project
@@ -32,7 +32,7 @@ params:
     portfolio: project
     post: article
   sidebar:
-    backgroundImage: ''
+    backgroundImage: 'images/myPic2.jpg'
     gradientOverlay: ''
     logo: 'images/myPic.jpg'
   social:
