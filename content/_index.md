@@ -5,10 +5,9 @@ images:
 title: HOME
 ---
 
-Hey,
+Olá,
 
-I'm Edna West, a Web Developer and Entrepreneur.
+Meu nome é Bruna e sou analista de dados e bioinformata.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
 
-[Get to know me better](/about "Get to know me better")
